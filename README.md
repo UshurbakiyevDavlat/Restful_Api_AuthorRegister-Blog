@@ -7,5 +7,6 @@ Dbms: MySql(InnoDb)
 Экспорт файл из базы данных прилагается
 IDEA : PhpStorm 2021
 
-Начальний файл Restful_Api_AuthorRegister-Blog/RestApiAuthAndBlog/api/user/firstPage.php 
+Подключение базы данных находится в Restful_Api_AuthorRegister-Blog/tree/main/RestApiAuthAndBlog/api/config/database.php
+После настройки базы открывайте начальний файл Restful_Api_AuthorRegister-Blog/RestApiAuthAndBlog/api/user/firstPage.php 
 и оттуда открывается меню того что реализованно, т.е таски из ТЗ.
