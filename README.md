@@ -7,4 +7,5 @@ Dbms: MySql(InnoDb)
 Экспорт файл из базы данных прилагается
 IDEA : PhpStorm 2021
 
-Открывайте firstPage.php и оттуда открывается меню того что реализованно, т.е таски из ТЗ.
+Начальний файл Restful_Api_AuthorRegister-Blog/RestApiAuthAndBlog/api/user/firstPage.php 
+и оттуда открывается меню того что реализованно, т.е таски из ТЗ.
